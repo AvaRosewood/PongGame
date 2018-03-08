@@ -1,2 +1,2 @@
 # PongGame
-A clone of the classic pong game
+This is a practice Repo for a Pong clone
