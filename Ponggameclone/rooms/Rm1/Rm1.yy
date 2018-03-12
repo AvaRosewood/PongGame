@@ -1,13 +1,15 @@
 
 {
-    "name": "room0",
+    "name": "Rm1",
     "id": "e1ad9132-c8cf-444a-ac16-a3c6240be8a8",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "f0008eaa-8d19-4a23-b5c4-ec60ba166dee",
+        "3f54f8d5-3247-407e-9945-606ac2ed082e",
+        "576bf548-c76a-4a78-bf03-434006c97b21"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +27,9 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+                {"name": "inst_2363BDEC","id": "f0008eaa-8d19-4a23-b5c4-ec60ba166dee","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2363BDEC","objId": "caed6bfa-966c-40be-8e5e-e3d8a8fe1a6c","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": -1184,"y": 384},
+                {"name": "inst_4BEFD4B1","id": "3f54f8d5-3247-407e-9945-606ac2ed082e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4BEFD4B1","objId": "8ef2196e-bf64-421b-89a9-731e178dc5e2","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": -224,"y": 352},
+                {"name": "inst_7F132CBA","id": "576bf548-c76a-4a78-bf03-434006c97b21","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7F132CBA","objId": "3f7c2656-ba86-4bf9-b608-15d8c828c088","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": -717,"y": 391}
             ],
             "layers": [
 
