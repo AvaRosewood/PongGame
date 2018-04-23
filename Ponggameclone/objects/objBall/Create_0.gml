@@ -1,7 +1,7 @@
  /// @description Ball Movement Setup
 // Temporary variables to decide the ball's speed.
-hspd = 10;
-vspd = 10;
+hspd = 8;
+vspd = 8;
 
 hspeed = choose (-hspd, hspd); 
-hspeed = choose (-vspd, vspd); 
+vspeed = choose (-vspd, vspd); 
